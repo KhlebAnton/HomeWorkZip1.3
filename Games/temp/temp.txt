@@ -1,0 +1,1 @@
+add dir src,res,savegames,temp;add dir main,test;add files Main.java, Utils.java;add dir drawables, vectors, icons;add file temp.txt;
